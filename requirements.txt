@@ -4,7 +4,7 @@ fix-yahoo-finance==0.0.21
 idna==2.6
 lxml==4.2.1
 multitasking==0.0.7
-numpy==1.14.2
+numpy==1.22.0
 pandas==0.22.0
 pandas-datareader==0.6.0
 python-dateutil==2.7.2
